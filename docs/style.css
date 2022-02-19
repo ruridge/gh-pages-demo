@@ -1,0 +1,9 @@
+:root {
+  background-color: darkgreen;
+  color: seashell;
+}
+
+body {
+  /* max-width: 800px; */
+  margin: 60px 20px 8px;
+}
